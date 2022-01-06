@@ -1,5 +1,5 @@
 body{
-padding-left: 10%;
+padding-left: 6%%;
 
 }
 
@@ -9,7 +9,7 @@ h1{ font-size: 40px;
 }
 
 .color{
-color: blue;
+color: rgb(118, 118, 148);
 
 }
 
@@ -24,14 +24,40 @@ color: blue;
    width: 80%;
    margin-left: 5%;
    padding-left: 2%;
+   margin-bottom: 100px;
     
+}
+
+.balance{
+
+width: 50%;
+padding-left:10px%;
+
+}
+
+.back{
+
+    background-color: powderblue;
+    margin-right: 5px;
+    padding-right: 3px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+
+#text-align{
+    text-align: center;
+}
+
+.balance img{
+   width: 20px;
+
 }
 .width-portion img{
  width:100%;
 }
 .explore-button{
     text-decoration:none;
-    background-color: purple;
+    background-color: rgb(173, 54, 74);
     padding: 10px 30px;
     color: white;
     font-weight: 700;
