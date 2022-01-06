@@ -5,6 +5,12 @@ padding-left: 10%;
 
 h1{ font-size: 40px;
     padding-left: 2%;
+
+}
+
+.color{
+color: blue;
+
 }
 
 .mini-bar{
@@ -15,11 +21,20 @@ h1{ font-size: 40px;
 
 .width-portion{
     display:flex;
-   width: 50%;
+   width: 80%;
    margin-left: 5%;
    padding-left: 2%;
     
 }
 .width-portion img{
  width:100%;
+}
+.explore-button{
+    text-decoration:none;
+    background-color: purple;
+    padding: 10px 30px;
+    color: white;
+    font-weight: 700;
+
+
 }
