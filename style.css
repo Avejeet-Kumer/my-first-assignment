@@ -1,6 +1,6 @@
 body{
-padding-left: 6%%;
-
+padding-left: 6%;
+font-family: 'Poppins', sans-serif;
 }
 
 h1{ font-size: 40px;
@@ -37,11 +37,22 @@ padding-left:10px%;
 
 .back{
 
-    background-color: powderblue;
+    
     margin-right: 5px;
     padding-right: 3px;
     padding-left: 10px;
     border-radius: 10px;
+}
+
+#mission{
+    background-color: rgb(139, 205, 214);
+}
+
+#vision{
+    background-color: rgb(195, 218, 195);
+}
+#goal{
+    background-color: rgb(178, 185, 204);
 }
 
 #text-align{
@@ -61,12 +72,16 @@ padding-left:10px%;
     padding: 10px 30px;
     color: white;
     font-weight: 700;
+    margin: top 10px;
+    
 
 
 }
 
 .develop{
 display: flex;
+margin-bottom: 100px;
+padding-left: 10px;
     
 }
 .develop img{
