@@ -64,3 +64,11 @@ padding-left:10px%;
 
 
 }
+
+.develop{
+display: flex;
+    
+}
+.develop img{
+ width: 80%;
+}
