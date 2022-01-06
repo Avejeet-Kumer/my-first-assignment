@@ -1,5 +1,5 @@
 body{
-padding-left: 6%;
+padding-left;
 font-family: 'Poppins', sans-serif;
 }
 
@@ -86,4 +86,21 @@ padding-left: 10px;
 }
 .develop img{
  width: 80%;
+}
+
+#footer-background{
+    background-color: black;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+}
+h3{
+    font-family: cursive;
+}
+#foot-mission{
+color: white;
+}
+
+#foot-2022{
+color:red ;
 }
